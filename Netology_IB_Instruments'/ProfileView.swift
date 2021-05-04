@@ -12,6 +12,7 @@ class ProfileView: UIView {
     @IBOutlet weak var birthday: UILabel!
     @IBOutlet weak var placeOfBirth: UILabel!
     @IBOutlet weak var userPhoto: UIImageView!
+    
     @IBOutlet weak var userInfo: UITextView!
     
 }
